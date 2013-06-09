@@ -1,0 +1,8 @@
+- add error handling
+- implement useful error handling of bad requests
+- think about moving to json for responses
+- each player sees themselves as blue, opponent as red
+- write documentation
+- make test client more user-friendly
+- some parts of the code are very java-esque. fix this
+- add a memory sweep to remove unfinished games from database
